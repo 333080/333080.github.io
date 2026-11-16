@@ -4,24 +4,24 @@
 # Lines starting with # are comments and are ignored.
 # ============================================================
 
-name=Prof. Pin Luarn
+name=Gayathri Sekar
 
-title1=Top 2% Scientist Worldwide (2020-2026)
+title1=MBA Student
 
-title2=2024 National Teaching Award Laureate
+title2=Software Engineer
 
-expertise=Internet Marketing, AI Applications, Agentic AI
+expertise=Application Development, AI Applications, Agentic AI
 
-education=Ph.D. in Industrial Engineering, University of Wisconsin-Madison, USA
+education=MBA , Hochschule Pforzheim
 
-email=luarn@mail.ntust.edu.tw
-linkedin=https://pse.is/8nn88y
+email=sekargay@hs-pforzheim.de
+linkedin=https://www.linkedin.com/in/gayathri-sekar-18858924/
 
-about1=Prof. Luarn earned his B.S. in Industrial Engineering from Tunghai University,
-about2=and his M.S. and Ph.D. in Industrial Engineering from the University of Wisconsin-Madison.
-about3=Named among the world's top 2% scientists by Stanford University & Elsevier for seven consecutive years (2020-2026).
-about4=Recipient of the 2024 Presidential National Teaching Award, Taiwan
+about1=Passionate coder currently building AI based startup for kids
+about2=Developed enterprise application for multiple international clients 
+about3=Free time i teach AI to the school kids & college kids
+about4=I also won multiple hackathon competitions 
 
-phone=+886-2-2737-6754
+phone=+49 17672698670
 
-location=T2-409, National Taiwan University of Science and Technology, No. 43, Sec. 4, Keelung Rd., Taipei, Taiwan
+location=Holzgrundtsrasse 15, Kornwestheim, Germany
